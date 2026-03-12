@@ -4,26 +4,26 @@ version: 1.0.0
 
 skills:
   btc-bottom-model:
-    path: btc-bottom-model
+    path: skills/btc-bottom-model
     version: 1.0.0
     description: BTC bottom timing model - 6 core indicators for entry signals
 
   macro-liquidity:
-    path: macro-liquidity
+    path: skills/macro-liquidity
     version: 1.0.0
     description: Macro liquidity monitoring - Fed, SOFR, MOVE, JPY carry trade
 
   tech-earnings-deepdive:
-    path: tech-earnings-deepdive
+    path: skills/tech-earnings-deepdive
     version: 3.0.0
     description: Tech earnings deep dive - 16 analysis modules, 6 investing philosophies
 
   us-market-sentiment:
-    path: us-market-sentiment
+    path: skills/us-market-sentiment
     version: 1.0.0
     description: US market sentiment monitor - NAAIM, institutional allocation, leverage
 
   us-value-investing:
-    path: us-value-investing
+    path: skills/us-value-investing
     version: 1.0.0
     description: US value investing framework - ROE, debt safety, FCF, moat analysis
