@@ -1,0 +1,29 @@
+name: day1global
+description: Day1Global investing & macro analysis skills
+version: 1.0.0
+
+skills:
+  btc-bottom-model:
+    path: btc-bottom-model
+    version: 1.0.0
+    description: BTC bottom timing model - 6 core indicators for entry signals
+
+  macro-liquidity:
+    path: macro-liquidity
+    version: 1.0.0
+    description: Macro liquidity monitoring - Fed, SOFR, MOVE, JPY carry trade
+
+  tech-earnings-deepdive:
+    path: tech-earnings-deepdive
+    version: 3.0.0
+    description: Tech earnings deep dive - 16 analysis modules, 6 investing philosophies
+
+  us-market-sentiment:
+    path: us-market-sentiment
+    version: 1.0.0
+    description: US market sentiment monitor - NAAIM, institutional allocation, leverage
+
+  us-value-investing:
+    path: us-value-investing
+    version: 1.0.0
+    description: US value investing framework - ROE, debt safety, FCF, moat analysis
